@@ -1,0 +1,11 @@
+feign:
+  hystrix:
+    enabled: true
+spring:
+  zipkin:
+    base-url: http://localhost:9411/
+  sleuth:
+    sampler:
+      probability: 1.0
+cognitiveserviceKey: aae328a95d474d8d8dd1b2334c1afdda
+cognitiveserviceURL: https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=
