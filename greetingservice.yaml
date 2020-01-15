@@ -1,5 +1,0 @@
-feign:
-  hystrix:
-    enabled: true
-cognitiveserviceKey: aae328a95d474d8d8dd1b2334c1afdda
-cognitiveserviceURL: https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=
